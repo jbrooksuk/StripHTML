@@ -1,4 +1,2 @@
-StripHTML
-=========
-
-Strip HTML content from selected text in Sublime Text 3
+# Strip
+Super simple HTML stripping command. Press `Ctrl+Alt+H` over a selection to replace the text.
