@@ -1,7 +1,7 @@
 import sublime, sublime_plugin
 import re
 
-class StripCommand(sublime_plugin.TextCommand):
+class StripHtmlCommand(sublime_plugin.TextCommand):
 	def run(self, edit):
 		sels = self.view.sel()
 
